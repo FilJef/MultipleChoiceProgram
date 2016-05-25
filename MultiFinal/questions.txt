@@ -1,0 +1,390 @@
+A local area networld (LAN) is defined by _____________.
+-the geometric size of the network
+the maximum number of hosts in the network
+the maximum number of hosts in the network and/or the geometric size of the network
+the topology of the network
+The largest geographic area a wide area network (WAN) can span is _______________.
+a town
+a state
+a country
+-the world
+A proposed standard is elevated to ________ standard status after at least two successful tries.
+informational
+historic
+-draft
+None of the choices are correct
+Which of the following is not one of the components of a data communication system?
+Message
+Sender
+Medium
+-All of the choices are correct
+Which of the following is not one of the characteristics of a data communication system?
+Delivery
+Accuracy
+Jitter
+-All of the choices are correct
+Data can flow only in one direction all of the times in a _________ mode.
+-simplex
+half-duplex
+full-duplex
+None of the choices are correct
+Data can flow only in both direction all of the times in a _________ mode.
+simplex
+half-duplex
+-full-duplex
+None of the choices are correct
+Which of the following is not one of the network criteria?
+Performance
+Reliability
+Security
+-All of the choices are correct
+In a _____________ communication, the media needs to be shared between devices.
+point-to-point
+-multipoint
+mesh
+None of the choices are correct
+In a _____________ communication, the media is dedicated.
+-point-to-point
+multipoint
+mesh
+None of the choices are correct
+In a fully connected mesh topology with six computers, we need ________ links.
+6
+36
+-15
+None of the choices are correct
+In a star topology with six computers, we need ________ links.
+-6
+1
+5
+None of the choices are correct
+An RFC is labeled ________ if it must be implemented by all Internet systems.
+-required
+elective
+recommended
+None of the choices are correct
+In the original ARPANET, _______ were directly connected to each other.
+-interface message processors (IMPs)
+host computers
+networks
+routers
+_______ was formed to connect universities with no defense ties.
+ARPANET
+-CSNET
+NSFNET
+ANSNET
+Currently _______ is responsible for the management of Internet domain names and addresses.
+NIC
+-ICANN
+ISOC
+IEFE
+The TCP/IP protocol suite consists of _______ layers.
+two
+three
+-five
+six
+A router is involved in ____________ layers of the TCP/IP protocol suite.
+two
+-three
+four
+five
+A link-layer switch is involved in ______________ layers of the TCP/IP protocol suite.
+-two
+three
+four
+five
+In the TCP/IP protocol suite, which of the following is an application layer protocol?
+The User Datagram Protocol (UDP)
+The Internet Protocol (IP)
+-The File Transfer Protocol (FTP)
+The Transmission Control Protocol (TCP)
+In the TCP/IP protocol suite, which of the following is a transport-layer protocol?
+The Internet Control Message Protocol (ICMP)
+The Internet Protocol (IP)
+The Address Resolution Protocol (ARP)
+-The Transmission Control Protocol (TCP)
+In the TCP/IP protocol suite, which of the following is a network layer protocol?
+The Stream Control Transmission Protocol (SCTP)
+The Secure Shell (SSH)
+-The Internet Protocol (IP)
+User Datagram Protocol (UDP)
+The transport-layer packet in the TCP/IP protocol suite is called _______________.
+a message
+a datagram
+-a segment or a user datagram
+a frame
+In the TCP/IP protocol suite, the ______ layer is responsible for moving frames from one hop (node) to the next.
+physical
+-data-link
+transport
+network
+In the TCP/IP protocol suite, the physical layer is concerned with the movement of _______ over the physical medium.
+programs
+dialogs
+protocols
+-bits
+In the TCP/IP protocol suite, a port number is the identifier at the____________.
+application layer
+-transport layer
+network layer
+physical layer
+In the TCP/IP protocol suite, a logical address is the identifier at the _______________.
+-network layer
+transport layer
+data-link layer
+application layer
+The_________ layer is responsible for the delivery of a message from one process to another.
+physical
+-transport
+network
+application
+The Internet Protocol (IP) is ________ protocol.
+a reliable
+a connection-oriented
+a reliable and connection-oriented
+-an unreliable
+The application layer in the TCP/IP protocol suite is usually considered to be the combination of ________layers in the OSI model.
+-application, presentation, and session
+application, transport, and network
+application, data-link, and physical
+network, data-link, and physical
+In TCP/IP, a message at the application layer is encapsulated in a packet at the ________ layer.
+network
+-transport
+data-link
+physical
+In TCP/IP, a message at the transport layer is encapsulated in a packet at the ________ layer.
+-network
+transport
+data-link
+physical
+In TCP/IP, a message belonging to the network layer is decapsulated from a packet at the ________ layer.
+network
+transport
+-data-link
+physical
+In TCP/IP, a message belonging to the transport layer is decapsulated from a packet at the ________ layer.
+-network
+transport
+data-link
+physical
+In TCP/IP, a logical connection between an entity at the network layer can be made with another entity at the ________ layer.
+-network
+transport
+data-link
+physical
+In TCP/IP, a logical connection between an entity at the data-link layer can be made with another entity at the ________ layer.
+network
+transport
+-data-link
+physical
+In TCP/IP, a packet at the third layer carries data belonging to the ________ layer and the header belonging to the _________ layer.
+third; third
+third; fourth
+-fourth; third
+fourth; fourth
+Polar and bipolar encoding are types of _______ coding.
+-line
+block
+scrambling
+None of the choices are correct
+___________ conversion involves three techniques: line coding, block coding, and scrambling.
+Analog-to-digital
+Digital-to-analog
+Analog-to-analog
+-Digital-to-digital
+In ______ schemes, the voltage level oscillates between a positive and a negative value although it may remain at zero level between the two values.
+-polar
+bipolar
+nonpolar
+None of the choices are correct
+In _____, the level of the voltage determines the value of the bit.
+NRZ-I
+-NRZ-L
+NRZ-I or NRZ-L
+None of the choices are correct
+In ______, the change or lack of change in the level of the voltage determines the value of the bit.
+-NRZ-I
+NRZ-L
+NRZ-I or NRZ-L
+None of the choices are correct
+The idea of RZ and the idea of NRZ-L are combined into the ________ scheme.
+-Manchester
+differential Manchester
+Manchester or differential Manchester
+None of the choices are correct
+In Manchester and differential Manchester encoding, the transition at the middle of the bit is used for __________.
+bit transfer
+baud transfer
+-synchronization
+None of the choices are correct
+In _______encoding, we use three levels: positive, zero, and negative.
+polar
+-bipolar
+nonpolar
+None of the choices are correct
+The _____ scheme uses data patterns of size 2 and encodes the 2-bit patterns as one signal element belonging to a four-level signal.
+4B5B
+-2B1Q
+B8ZS
+None of the choices are correct
+_______ encoding has a transition at the middle of each bit.
+RZ
+Manchester
+Differential Manchester
+-All the choices are correct
+_______ encoding has a transition at the beginning of each 0 bit.
+RZ
+Manchester
+-Differential Manchester
+All the choices are correct
+Which of the following encoding methods does not provide for synchronization?
+-NRZ-L
+RZ
+NRZ-I
+Manchester
+Which encoding method uses alternating positive and negative values for 1s?
+NRZ-I
+RZ
+Manchester
+-AMI
+Block coding can help in _______ and _________ at the receiver.
+-synchronization and error detection
+synchronization and attenuation
+error detection and attenuation
+error detection and distortion
+________ is the process of converting digital data to a digital signal.
+Block coding
+-Line coding
+Scrambling
+All of the choices are correct
+_______ provides redundancy to ensure synchronization and inherent error detection.
+-Block coding
+Line coding
+Line coding or block coding
+None of the choices are correct
+________ is normally referred to as mB/nB coding; it replaces each m-bit group with an n-bit group.
+-Block coding
+Line coding
+Scrambling
+None of the choices are correct
+________ provides synchronization without increasing the number of bits.
+-Scrambling
+Line coding
+Block coding
+None of the choices are correct
+Two common scrambling techniques are ________.
+NRZ and RZ
+AMI and NRZ
+-B8ZS and HDB3
+Manchester and differential Manchester
+PCM is an example of _______ conversion.
+digital-to-digital
+digital-to-analog
+analog-to-analog
+-analog-to-digital
+The most common technique to change an analog signal to digital data is called __________.
+PAL
+-PCM
+sampling
+None of the choices are correct
+The first step in PCM is ________.
+quantization
+modulation
+-sampling
+None of the choices are correct
+______ finds the value of the signal amplitude for each sample; ____ finds the change from the previous sample.
+DM; PCM
+-PCM; DM
+DM; CM
+None of the choices are correct
+ASK, PSK, FSK, and QAM are examples of ________ conversion.
+digital-to-digital
+-digital-to-analog
+analog-to-analog
+analog-to-digital
+In QAM, both ________ of a carrier frequency are varied.
+-frequency and amplitude
+phase and frequency
+amplitude and phase
+None of the choices are correct
+In ________, the amplitude of the carrier signal is varied to create signal elements. Both frequency and phase remain constant.
+-ASK
+PSK
+FSK
+QAM
+In _________, the frequency of the carrier signal is varied to represent data. Both peak amplitude and phase remain constant.
+ASK
+PSK
+-FSK
+QAM
+In ________, the phase of the carrier is varied to represent two or more different signal elements. Both peak amplitude and frequency remain constant.
+ASK
+PSK
+-FSK
+QAM
+Quadrature amplitude modulation (QAM) is a combination of ___________.
+ASK and FSK
+-ASK and PSK
+PSK and FSK
+None of the choices are correct
+________ uses two carriers, one in-phase and the other quadrature.
+ASK
+PSK
+FSK
+-QAM
+How many carrier frequencies are used in BASK?
+-1
+2
+3
+None of the choices are correct
+How many carrier frequencies are used in BFSK?
+1
+-2
+3
+None of the choices are correct
+How many carrier frequencies are used in BPSK?
+-1
+2
+3
+None of the choices are correct
+Which of the following is not an analog-to-analog conversion?
+AM
+PM
+FM
+-QAM
+In _____ transmission, the carrier signal is modulated so that its amplitude varies with the changing amplitudes of the modulating signal.
+-AM
+PM
+FM
+None of the choices are correct
+In the analog transmission of the digital signal, the baud rate is ___________ the bit rate.
+always less than
+-less than or equal to
+always greater than
+is greater than or equal to
+In ASK, the bandwidth is ________.
+less than the signal rate
+-equal or greater than signal rate
+always equal to signal rate
+five times the signal rate
+With the same signal rate, the bandwidth of FSK is normally ___________ the bandwidth for ASK.
+-greater than
+less than
+equal to
+None of the choices are correct
+The bandwidth of an AM signal is ______________ the bandwidth of the original analog signal.
+equal to
+-two times
+three times
+None of the choices are correct
+In AM radio, the allocated bandwidth for each station is ___________ kHz.
+15
+20
+-10
+None of the choices are correct
+In FM radio, the allocated bandwidth for each station is ___________ kHz.
+100
+-200
+300
+None of the choices are correct
